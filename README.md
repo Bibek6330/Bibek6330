@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Docker**
 
-- 💬 Ask me about **java, springboot**
+- 💬 Ask me about **java, springboot, python **
 
 - 📫 How to reach me **bibek6330@gmail.com**
 
