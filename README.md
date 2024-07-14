@@ -12,7 +12,7 @@ I'm a dedicated fullstack developer with expertise in the MERN and Java full sta
 
 ## 🌐 Connect with me:
 
-- LinkedIn: [Bibek6330](https://www.linkedin.com/in/bibek-behera15/))
+- LinkedIn: [Bibek6330](https://www.linkedin.com/in/bibek-behera15/)
 - GitHub: [Bibek6330_](https://github.com/Bibek6330)
 
 ## 💻 My Tech Stack:
