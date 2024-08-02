@@ -13,30 +13,10 @@ Check out all of my projects and experiences at [my portfolio](https://bibek6330
 - **LinkedIn:** [bibek-behera15](https://linkedin.com/in/bibek-behera15/)
 - **Instagram:** [@_bibekbehera_](https://www.instagram.com/_bibekbehera_/?utm_source=ig_web_button_share_sheet)
 
-## 📝 Blog Posts
-Stay updated with my latest insights and projects on [my portfolio](https://bibek6330.github.io/my_portfolio/).
-
 ## 🌐 Connect with Me
 - [GitHub](https://github.com/bibek6330)
 - [LinkedIn](https://linkedin.com/in/bibek-behera15/)
 - [Instagram](https://www.instagram.com/_bibekbehera_/?utm_source=ig_web_button_share_sheet)
-
-<h1 align="center">Hi 👋, I'm Bibek Behera</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bibek6330&label=Profile%20views&color=0e75b6&style=flat" alt="bibek6330" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bibek6330" alt="bibek6330" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/bibek6330" target="blank"><img src="https://img.shields.io/twitter/follow/bibek6330?logo=twitter&style=for-the-badge" alt="bibek6330" /></a> </p>
-
-- 🔭 I’m currently working on [Women-s-Safety-App](https://github.com/Bibek6330/Women-s-Safety-App)
-
-- 👨‍💻 All of my projects are available at [https://bibek6330.github.io/my_portfolio/](https://bibek6330.github.io/my_portfolio/)
-
-- 📫 How to reach me **bibek6330@gmail.com**
-
-- 📄 Know about my experiences [https://bibek6330.github.io/my_portfolio/](https://bibek6330.github.io/my_portfolio/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
