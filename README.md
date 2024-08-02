@@ -1,4 +1,4 @@
-# Hi 👋, I'm Bibek Behera
+## Hi 👋, I'm Bibek Behera
 
 A passionate frontend developer from India.
 
@@ -12,18 +12,7 @@ Check out all of my projects and experiences at [my portfolio](https://bibek6330
 - **Email:** [bibek6330@gmail.com](mailto:bibek6330@gmail.com)
 - **LinkedIn:** [bibek-behera15](https://linkedin.com/in/bibek-behera15/)
 - **Instagram:** [@_bibekbehera_](https://www.instagram.com/_bibekbehera_/?utm_source=ig_web_button_share_sheet)
-
-## 🌐 Connect with Me
-- [GitHub](https://github.com/bibek6330)
-- [LinkedIn](https://linkedin.com/in/bibek-behera15/)
-- [Instagram](https://www.instagram.com/_bibekbehera_/?utm_source=ig_web_button_share_sheet)
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+  
 <a href="https://codepen.io/bibek6330" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="bibek6330" height="30" width="40" /></a>
 <a href="https://dev.to/bibek6330" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="bibek6330" height="30" width="40" /></a>
 <a href="https://twitter.com/bibek6330" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bibek6330" height="30" width="40" /></a>
