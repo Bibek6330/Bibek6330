@@ -5,6 +5,9 @@ A passionate frontend developer from India.
 ## 🔭 Current Work
 I’m currently working on the **Women’s Safety App**.
 
+##![Profile Views]
+(https://img.shields.io/github/views/bibek6330/bibek6330?style=flat&logo=github)
+
 ## 💼 Portfolio
 Check out all of my projects and experiences at [my portfolio](https://bibek6330.github.io/my_portfolio/).
 
@@ -12,15 +15,6 @@ Check out all of my projects and experiences at [my portfolio](https://bibek6330
 - **Email:** [bibek6330@gmail.com](mailto:bibek6330@gmail.com)
 - **LinkedIn:** [bibek-behera15](https://linkedin.com/in/bibek-behera15/)
 - **Instagram:** [@_bibekbehera_](https://www.instagram.com/_bibekbehera_/?utm_source=ig_web_button_share_sheet)
-  
-<a href="https://codepen.io/bibek6330" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="bibek6330" height="30" width="40" /></a>
-<a href="https://dev.to/bibek6330" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="bibek6330" height="30" width="40" /></a>
-<a href="https://twitter.com/bibek6330" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bibek6330" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/inkedin.com/in/bibek-behera15/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="inkedin.com/in/bibek-behera15/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/bibek6330" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="bibek6330" height="30" width="40" /></a>
-<a href="https://kaggle.com/bibek6330" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="bibek6330" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/_bibekbehera_/?utm_source=ig_web_button_share_sheet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_bibekbehera_/?utm_source=ig_web_button_share_sheet" height="30" width="40" /></a>
-</p>
 
 ## 🛠️ Languages and Tools
 
