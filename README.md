@@ -5,9 +5,6 @@ A passionate frontend developer from India.
 ## 🔭 Current Work
 I’m currently working on the **Women’s Safety App**.
 
-##![Profile Views]
-(https://img.shields.io/github/views/bibek6330/bibek6330?style=flat&logo=github)
-
 ## 💼 Portfolio
 Check out all of my projects and experiences at [my portfolio](https://bibek6330.github.io/my_portfolio/).
 
